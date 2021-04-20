@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace InNutrition.Controllers
 {
-    public class ProgramController : Controller
+    public class ProgramHabitsController1 : Controller
     {
         public IActionResult Index()
         {
             return View();
-
         }
 
         public IActionResult Program(int id)
