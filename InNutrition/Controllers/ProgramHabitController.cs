@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InNutrition.Controllers
 {
-    public class ProgramHabitsController1 : Controller
+    public class ProgramHabitController : Controller
     {
         public IActionResult Index()
         {
