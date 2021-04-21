@@ -8,11 +8,13 @@ namespace InNutrition.Controllers
 {
     public class ProgramHabitController : Controller
     {
+        [Route("ProgramHabit/Index/{id?}")]
         public IActionResult Index()
         {
             return View();
         }
 
+        
         public IActionResult Program(int id)
         {
             return Ok("This IActionResult Program id is " + id);

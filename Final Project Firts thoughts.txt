@@ -1,0 +1,28 @@
+ Proof of concept:
+             1.        A database driven web application using MVC
+
+The Idea is to buil the prood of concept for a diatary program. Program your eating habits. Base in the existing gorund diet gruops.
+
+You will be able to :
+
+A) Create a new Program with these parameters:
+
+-Name your habit (program)
+-Set a time or goal frame of time to archive this training habit (expect nor necessary obligatory)
+
+- Set a list of ingredientes to check on your list 
+- would be good if an open api with the content of producsts or veggies to add.
+  (add manually in case not existance)
+- Description of you own diet.
+- Write clear your expectancy to archive. for exemple. loss weight or clean your gut.
+
+B) Already set up programs that exist in a list.
+
+C) Programs to pay in orther to see the others methods.
+
+D) You should have a page for user.
+   We should provide logging credentials.
+
+This prove of concept should use database driven.
+use and api with vegetales properties or other products
+
